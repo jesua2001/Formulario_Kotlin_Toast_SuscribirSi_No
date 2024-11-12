@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="telefono">Telefono</string>
+    <string name="telef_no">telefóno</string>
+    <string name="nombre">Nombre</string>
+    <string name="sucribirse">Sucribirse</string>
+    <string name="aceptar">Aceptar</string>
+</resources>
